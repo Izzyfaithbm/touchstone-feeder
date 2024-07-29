@@ -40,3 +40,4 @@ Please note that these instructions assume that you have Python installed and ad
 
 For this to work, you have to customize the "legendary_traits", "rare_traits", "uncommon_traits and common_traits" (lines 87-129) manually to your NFTs. FORMAT: "Layer": ["Trait", "Trait", "Trait"] EXAMPLE: "Hair": ["Pink_hair", "Blue_hair", "Yellow_hair"]
 """
+python -c "import touchstone_feeder; print(touchstone_feeder.__doc__) to see pydoc
