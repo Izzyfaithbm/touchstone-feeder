@@ -1,2 +1,5 @@
 # touchstone-feeder
-NFT metadata sorter
+NFT Touchstone metadata sorter 
+
+
+
